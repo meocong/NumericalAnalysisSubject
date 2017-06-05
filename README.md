@@ -1,2 +1,2 @@
 # NumericalAnalysisSubject
-Some basic algorithms of Numerical Analysis Subject at my University
+Some basic algorithms of my learning at Numerical Analysis Subject at my University
